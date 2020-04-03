@@ -1,5 +1,6 @@
 public class Hello
 //Jose was here
+//Richard was here
 {
  public static void main( String argv[] )
  {
